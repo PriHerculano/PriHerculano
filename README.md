@@ -35,3 +35,4 @@
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF32FC&height=120&section=footer"/>
  </div>
+![Snake Game](https://github.com/PriHerculano/PriHerculano/blob/output/github-contribution-grid-snake.svg)
