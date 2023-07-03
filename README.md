@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF32FC&height=120&section=header"/>
 <div align="center">
-   <h2>Olá, Me chamo Priscila Herculano!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+   <h2>Olá, me chamo Priscila Herculano!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
   <p>- 🤖 Fullstack em desenvolvimento</p>
   <p>- ☁ Estudando AWS</p>
   <p>- 🌎 Fazendo a diferença através da tecnologia</p>
