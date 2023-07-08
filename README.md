@@ -2,7 +2,7 @@
 <div align="center">
    <h2>Olá, me chamo Priscila Herculano!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
   <p>- 🤖 Fullstack em desenvolvimento</p>
-  <p>- ☁ Estudando AWS</p>
+  <p>- ☁ Conhecimento em AWS</p>
   <p>- 🌎 Fazendo a diferença através da tecnologia</p>
 </div>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='100'>
