@@ -32,7 +32,7 @@
 </div>
   <br>
 <br></div>
-![Snake Game](https://github.com/PriHerculano/PriHerculano/blob/output/github-contribution-grid-snake.gif)
+<!-- ![Snake Game](https://github.com/PriHerculano/PriHerculano/blob/output/github-contribution-grid-snake.gif) -->
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF32FC&height=120&section=footer"/>
  </div>
